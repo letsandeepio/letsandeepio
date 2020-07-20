@@ -1,7 +1,14 @@
-### Hi there 👋
+![Hi, I am Sandeep.](https://github.com/letsandeepio/letsandeepio/raw/master/captured%20(1).gif)
+
+
+* 🔭 I’m currently working on a Ruby on Rails App for commercial online buying & selling platform 
+* 🌱 I’m currently learning GraphQL & Svelte 
+
+# Skillset
+![skillset](https://github.com/letsandeepio/letsandeepio/raw/master/captured.gif)
 
 <!--
-**letsandeepio/letsandeepio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**letsandeepio/letsandeepio** is a ✨ _special_ ✨ repository be§cause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
