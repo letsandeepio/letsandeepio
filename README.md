@@ -1,6 +1,6 @@
 # Hello World, I am Sandeep!
 
-I am a passionate web developer who loves everything coding & web technologies. Please check out my pinned repositories for interesting projects that I have worked on.
+I am a toronto-based passionate web developer who loves everything coding & web technologies. Please check out my pinned repositories for interesting projects that I have worked on.
 
 ## Currently
 > 🔭  working on a Ruby on Rails App for commercial online buying & selling platform.
@@ -12,7 +12,9 @@ I am a passionate web developer who loves everything coding & web technologies. 
 
 ## Codepen
 
-I really love to design fun UX & quick prototypes in plain HTML, Javascropt & CSS. Please check out some of my work on [Codepen Showcase](https://codepen.io/letsandeepio/pens/showcase)
+I really love to design fun UX & quick prototypes in plain HTML, Javascropt & CSS.
+
+Please check out some of my work on [Codepen Showcase](https://codepen.io/letsandeepio/pens/showcase).
 
 ## Small fun side-projects
 
