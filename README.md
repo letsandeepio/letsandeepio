@@ -18,7 +18,7 @@ Please check out some of my work on [Codepen Showcase](https://codepen.io/letsan
 
 ## Small fun side-projects
 
-I love to work on small coding projects from time to time out of curiosity and for pure fun. Please check out some of those here:
+I love to work on small coding projects from time to time out of curiosity and for pure fun. If you are feeling adventerous, please take them for a spin.
 
 * __Rick & Morty App:__ a fun app built-in pure React enabling fans to search through interesting characters that appeared in the famous TV show, of same name. [View Live](https://rick-and-morty-app-chi.vercel.app/)| [Github](https://github.com/letsandeepio/rick-and-morty-app)
 * __Year-Progress:__ A simple commandline app for displaying current year progress (inspired by Google Engineer [@filiphracek](https://twitter.com/year_progress?lang=en)) | [Github](https://github.com/letsandeepio/year-progress)
