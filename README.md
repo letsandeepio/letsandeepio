@@ -1,4 +1,4 @@
-# Hello World, I am Sandeep!
+![Hello, I am Sandeep](https://github.com/letsandeepio/letsandeepio/raw/master/captured%20(1).gif)
 
 I am a toronto-based passionate web developer who loves everything coding & web technologies. Please check out my pinned repositories for interesting projects that I have worked on.
 
