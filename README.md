@@ -12,7 +12,7 @@ I am a toronto-based passionate web developer who loves everything coding & web 
 
 ## Codepen
 
-I really love to design fun UX & quick prototypes in plain HTML, Javascropt & CSS.
+I really love to design fun UX & quick prototypes in plain HTML, Javascript & CSS.
 
 Please check out some of my work on [Codepen Showcase](https://codepen.io/letsandeepio/pens/showcase).
 
