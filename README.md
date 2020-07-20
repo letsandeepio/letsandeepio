@@ -1,5 +1,4 @@
-![Hi, I am Sandeep.](https://github.com/letsandeepio/letsandeepio/raw/master/captured%20(1).gif)
-
+# Hello World, I am Sandeep.
 
 * 🔭 I’m currently working on a Ruby on Rails App for commercial online buying & selling platform 
 * 🌱 I’m currently learning GraphQL & Svelte 
