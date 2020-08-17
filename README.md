@@ -3,9 +3,8 @@
 I am a Toronto-based passionate web developer who loves everything coding & web technologies. Please check out my pinned repositories for interesting projects that I have worked on.
 
 ## Currently
-> 🔭  working on a Ruby on Rails App for commercial online buying & selling platform.
 
-> 🌱  learning GraphQL & Svelte.
+> 🌱  learning Django (Python) & Svelte.
 
 > 📗  reading The Kite Runner by Khaled Hossein. 
 
