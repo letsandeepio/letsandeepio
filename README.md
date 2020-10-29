@@ -2,7 +2,18 @@
 
 I am full stack web developer currently based in Toronto. If you are new here, please check out my pinned repositories for interesting projects that I have worked on.
 
+## Spotlight
+
+I am really proud of this project built using Framer Motion & React.JS I completed & deployed recently. It is fake movie awards nomination website - allowing users to search for movies, add them to nomination list, generate shareable links and more 
+
+```CMD+click``` to open in new tab
+
+[View Live](https://reverent-booth-ef65f4.netlify.app/login)| [Github](https://github.com/letsandeepio/shoppies-fe)
+
+
 ## Currently
+
+> 🍷  working on a Freelance Project (covered under NDA) with a local winery company from design to deployment. Deliverable included a full-stack web app allowing users to select, design custom labels & place orders for wines. Included a custom built wine label maker component using React.JS & React Konva Library. - letting users add templates, text & upload images.
 
 > 🌱  learning Python for Web Development
 
@@ -14,6 +25,7 @@ I am full stack web developer currently based in Toronto. If you are new here, p
 I really love to work on fun UX & quick design prototypes in plain HTML, Javascript & CSS.
 
 Please check out some of my work with more than 15000+ impressions on [Codepen Showcase](https://codepen.io/letsandeepio/pens/showcase). Use ```CMD+click``` to open in new tab.
+
 
 ## Small fun side-projects
 
