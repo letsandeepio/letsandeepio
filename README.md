@@ -1,6 +1,8 @@
 ![Hello, I am Sandeep](https://github.com/letsandeepio/letsandeepio/raw/master/captured%20(1).gif)
 
-I am full stack web developer currently based in Toronto. If you are new here, please check out my pinned repositories for interesting projects that I have worked on.
+Recent Updates!
+
+I have started my new job as a Frontend Developer with Xerris Inc.
 
 ## Spotlight
 
@@ -13,12 +15,16 @@ I am really proud of this project built using Framer Motion & React.JS I complet
 
 ## Currently
 
-> 🍷  working on a Freelance Project (covered under NDA) with a local winery company from design to deployment. Deliverable included a full-stack web app allowing users to select, design custom labels & place orders for wines. Included a custom built wine label maker component using React.JS & React Konva Library. - letting users add templates, text & upload images.
+>  working as Frontend Develiper with Xerris Inc.
 
 > 🌱  learning Python for Web Development
 
 > 📗  reading The Kite Runner by Khaled Hossein. 
 
+
+## Freelance 
+
+🍷  worked on a Freelance Project (covered under NDA) with a local winery company from design to deployment. Deliverable included a full-stack web app allowing users to select, design custom labels & place orders for wines. Included a custom built wine label maker component using React.JS & React Konva Library. - letting users add templates, text & upload images.
 
 ## Codepen
 
