@@ -2,7 +2,7 @@
 
 Recent Updates!
 
-I have started my new job as a Frontend Developer with Xerris Inc.
+I have started my new job as a Frontend Software Developer with Xerris Inc.
 
 ## Spotlight
 
@@ -15,14 +15,12 @@ I am really proud of this project built using Framer Motion & React.JS I complet
 
 ## Currently
 
->  working as Frontend Develiper with Xerris Inc.
+>  working as Frontend Software Developer with Xerris Inc.
 
-> 🌱  learning Python for Web Development
-
-> 📗  reading The Kite Runner by Khaled Hossein. 
+> 📗  reading [Refactoring JavaScript: Turning Bad Code Into Good Code](https://www.amazon.ca/Refactoring-JavaScript-Turning-Code-Into/dp/1491964928)
 
 
-## Freelance 
+## Freelance Projects
 
 🍷  worked on a Freelance Project (covered under NDA) with a local winery company from design to deployment. Deliverable included a full-stack web app allowing users to select, design custom labels & place orders for wines. Included a custom built wine label maker component using React.JS & React Konva Library. - letting users add templates, text & upload images.
 
