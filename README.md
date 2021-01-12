@@ -1,8 +1,11 @@
 ![Hello, I am Sandeep](https://github.com/letsandeepio/letsandeepio/raw/master/captured%20(1).gif)
 
-Recent Updates!
+## Currently
 
-I have started my new job as a Frontend Software Developer with Xerris Inc.
+>  working as Frontend Software Developer with Xerris Inc.
+
+> 📗  reading [Refactoring JavaScript: Turning Bad Code Into Good Code](https://www.amazon.ca/Refactoring-JavaScript-Turning-Code-Into/dp/1491964928)
+
 
 ## Spotlight
 
@@ -11,13 +14,6 @@ I am really proud of this project built using Framer Motion & React.JS I complet
 ```CMD+click``` to open in new tab
 
 [View Live](https://reverent-booth-ef65f4.netlify.app/login)| [Github](https://github.com/letsandeepio/shoppies-fe)
-
-
-## Currently
-
->  working as Frontend Software Developer with Xerris Inc.
-
-> 📗  reading [Refactoring JavaScript: Turning Bad Code Into Good Code](https://www.amazon.ca/Refactoring-JavaScript-Turning-Code-Into/dp/1491964928)
 
 
 ## Freelance Projects
