@@ -16,10 +16,6 @@ I am really proud of this project built using Framer Motion & React.JS I complet
 [View Live](https://reverent-booth-ef65f4.netlify.app/login)| [Github](https://github.com/letsandeepio/shoppies-fe)
 
 
-## Freelance Projects
-
-🍷  worked on a Freelance Project (covered under NDA) with a local winery company from design to deployment. Deliverable included a full-stack web app allowing users to select, design custom labels & place orders for wines. Included a custom built wine label maker component using React.JS & React Konva Library. - letting users add templates, text & upload images.
-
 ## Codepen
 
 I really love to work on fun UX & quick design prototypes in plain HTML, Javascript & CSS.
