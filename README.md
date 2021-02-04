@@ -2,7 +2,7 @@
 
 ## Currently
 
->  working as Frontend Software Developer with Xerris Inc.
+>  working as Front End Developer with Xerris Inc.
 
 > 📗  reading [Refactoring JavaScript: Turning Bad Code Into Good Code](https://www.amazon.ca/Refactoring-JavaScript-Turning-Code-Into/dp/1491964928)
 
