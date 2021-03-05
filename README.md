@@ -9,16 +9,16 @@
 
 ## Spotlight
 
-I am really proud of this project built using Framer Motion & React.JS I completed & deployed recently. It is fake movie awards nomination website - allowing users to search for movies, add them to nomination list, generate shareable links and more 
+Fictitous movie awards nomination website - allowing users to search for movies, add them to nomination list, generate shareable links and more. Developed using latest web technologies (React.js, Apollo Client, framer-motion, GraphQL, Prisma etc)
 
-```CMD+click``` to open in new tab
+Please use ```CMD+click``` to open in a new tab.
 
 [View Live](https://reverent-booth-ef65f4.netlify.app/login)| [Github](https://github.com/letsandeepio/shoppies-fe)
 
 
 ## Codepen
 
-I really love to work on fun UX & quick design prototypes in plain HTML, Javascript & CSS.
+I love to work on fun UX & quick design prototypes in plain HTML, Javascript & CSS.
 
 Please check out some of my work with more than 15000+ impressions on [Codepen Showcase](https://codepen.io/letsandeepio/pens/showcase). Use ```CMD+click``` to open in new tab.
 
@@ -33,6 +33,9 @@ I love to work on small coding projects from time to time out of curiosity and f
 * __Trivia-App:__ An API based Computer Science Trivia app made using pure HTML, CSS & Javascript. [View Live](https://letsandeepio.github.io/Trivia-App/#)| [Github](https://github.com/letsandeepio/Trivia-App)
 
 
+# Certifications
+
+<img src="https://images.youracclaim.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="100" height="100">
 
 # Skillset
 ![skillset](https://github.com/letsandeepio/letsandeepio/raw/master/captured.gif)
