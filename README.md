@@ -1,4 +1,3 @@
-![Hello, I am Sandeep](https://github.com/letsandeepio/letsandeepio/raw/master/captured%20(1).gif)
 
 ## Currently
 
