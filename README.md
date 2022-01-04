@@ -6,7 +6,7 @@
 
 **Currently**
 
-- Frontend Software Developer at a Calgary Based Digital Transformation Co.
+- Frontend Software Developer at a Calgary based Digital Transformation Co.
 - AWS Certified Software Developer
 - Mentor & Instructor at Canada's #1 Coding Bootcamp
 
