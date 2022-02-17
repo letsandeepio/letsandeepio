@@ -6,7 +6,7 @@
 
 **Currently**
 
-- Frontend Software Developer at a Calgary based Digital Transformation Co.
+- Development Lead - Front End at a Calgary based Digital Transformation Co.
 - AWS Certified Software Developer
 - Mentor & Instructor at Canada's #1 Coding Bootcamp
 
@@ -25,7 +25,7 @@
 
 🦀 I’m currently grokking Rust and Svelte
 
-⚡ Fun fact: I started learning C at the age of 13 because I wanted to make 3d games!
+⚡ Fun fact: I reverse engineered Yahoo Mail composer GUI back in 2004
 
 
 <!--
