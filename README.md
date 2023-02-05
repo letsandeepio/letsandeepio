@@ -20,7 +20,6 @@
 
 - [year-progress](https://github.com/letsandeepio/year-progress)
 - periodic table of visualizatons - [live](https://letsandeepio.github.io/viz-method-table/) | [github](https://github.com/letsandeepio/viz-method-table)
-- shoppies [live](https://reverent-booth-ef65f4.netlify.app/login/) | [github](https://github.com/letsandeepio/shoppies-fe)
 
 
 🦀 I’m currently grokking Rust and Svelte
