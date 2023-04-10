@@ -6,7 +6,7 @@
 
 **Currently**
 
-- Development Lead - Front End at a Calgary based Digital Transformation Co.
+- Team Lead - Frontend/Fullstack - at a Calgary based Digital Transformation Co.
 - Software Engineer for Recruitment CRM company based out of New York
 - AWS Certified Software Developer
 - Part Time Mentor & Instructor at Canada's #1 Coding Bootcamp
