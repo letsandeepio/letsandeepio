@@ -7,15 +7,23 @@
 **Currently**
 
 - Team Lead - Frontend/Fullstack - at a Calgary based Digital Transformation Co.
-- Software Engineer for Recruitment CRM company based out of New York
-- AWS Certified Software Developer
+- Software Engineer at a New York based Recruitment CRM company
 - Part Time Mentor & Instructor at Canada's #1 Coding Bootcamp
 
 **Elsewhere**
 
+- London Chapter Lead, [Canada Learning Code](https://www.canadalearningcode.ca/)
 - Curator, [Svelte One Newsletter](https://www.svelte.one/)
 - Check out some of my work at [Codepen](https://codepen.io/letsandeepio/pens/showcase)
 
+**Previously**
+
+- Assistant HR Manager, led teams for human resources for a decade.
+
+**Certified**
+
+- AWS Certified Developer Associate
+- Apollo GraphQL - Graph Developer Professional 
 
 **Fun Projects**
 
