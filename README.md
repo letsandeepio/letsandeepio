@@ -31,7 +31,7 @@
 - periodic table of visualizatons - [live](https://letsandeepio.github.io/viz-method-table/) | [github](https://github.com/letsandeepio/viz-method-table)
 
 
-🦀 I’m currently grokking Rust and Svelte
+🦀 I’m currently grokking AngularJS and Rust
 
 ⚡ Fun fact: I reverse engineered Yahoo Mail composer GUI back in 2004
 
