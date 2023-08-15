@@ -8,7 +8,6 @@
 
 - Team Lead - Frontend/Fullstack - at a Calgary based Digital Transformation Co.
 - Software Engineer at a New York based Recruitment CRM company
-- Part Time Mentor & Instructor at Canada's #1 Coding Bootcamp
 
 **Elsewhere**
 
