@@ -1,23 +1,20 @@
 👋🏻 Hi, I am Sandeep. 
 
 
-🔭 Intellectually promiscuous Frontend Engg. passionate about Component Driven Design & UI Micro-interactions that ✨ spark ✨ joy for users.
+🔭 Intellectually promiscuous Frontend/Fullstack Engg. passionate about Component Driven Design & UI Micro-interactions that ✨ spark ✨ joy for its users.
 
 
 **Currently**
 
-- Team Lead - Frontend/Fullstack - at a Calgary based Digital Transformation Co.
-- Software Engineer at a New York based Recruitment CRM company
+- Team Lead - Frontend/Fullstack - at a Calgary-based Digital Transformation Co.
+- Working as Software Engineer with a New York-based Recruitment CRM company
 
 **Elsewhere**
 
-- London Chapter Lead, [Canada Learning Code](https://www.canadalearningcode.ca/)
+- Chapter Lead, London, ON [Canada Learning Code](https://www.canadalearningcode.ca/)
 - Curator, [Svelte One Newsletter](https://www.svelte.one/)
 - Check out some of my work at [Codepen](https://codepen.io/letsandeepio/pens/showcase)
 
-**Previously**
-
-- Assistant HR Manager, led teams for human resources for a decade.
 
 **Certified**
 
@@ -30,9 +27,9 @@
 - periodic table of visualizatons - [live](https://letsandeepio.github.io/viz-method-table/) | [github](https://github.com/letsandeepio/viz-method-table)
 
 
-🦀 I’m currently grokking AngularJS and Rust
+🦀 I’m currently grokking AngularJS and C#, .net
 
-⚡ Fun fact: I reverse engineered Yahoo Mail composer GUI back in 2004
+⚡ Fun fact: I reverse-engineered Yahoo Mail composer GUI back in 2004
 
 
 <!--
