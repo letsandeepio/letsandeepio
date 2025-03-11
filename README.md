@@ -7,7 +7,7 @@
 **Currently**
 
 - Engineering Manager at Bounteous Canada
-- Individual Contributor a New York-based talent technology company specializing in cloud-based software solutions for recruitment and talent acquisition.
+- Individual Contributor a New York-based talent technology company specializing in cloud-based software solutions for recruitment and talent acquisition. (Contracting)
 
 **Elsewhere**
 
