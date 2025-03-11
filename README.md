@@ -6,8 +6,8 @@
 
 **Currently**
 
-- Team Lead - Frontend/Fullstack - at a Calgary-based Digital Transformation Co.
-- Working as Software Engineer with a New York-based Recruitment CRM company
+- Engineering Manager at Bounteous Canada
+- Individual Contributor a New York-based talent technology company specializing in cloud-based software solutions for recruitment and talent acquisition.
 
 **Elsewhere**
 
