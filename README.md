@@ -11,7 +11,8 @@
 
 **Elsewhere**
 
-- Chapter Lead, London, ON [Canada Learning Code](https://www.canadalearningcode.ca/)
+- Founder, [Coders Collective](https://www.coderscollective.ca)
+- Ex-Chapter Lead, London, ON [Canada Learning Code](https://www.canadalearningcode.ca/)
 - Curator, [Svelte One Newsletter](https://www.svelte.one/)
 - Check out some of my work at [Codepen](https://codepen.io/letsandeepio/pens/showcase)
 
