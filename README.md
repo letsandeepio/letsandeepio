@@ -1,37 +1,31 @@
-👋🏻 Hi, I am Sandeep. 
+👋🏻 Hi, I'm Sandeep. I've been building things on the web for [over 22 years](https://sandeepchopra.ca/note/offline-blog-editor). First as a hobby, then as a career pivot that finally felt right.
 
+I live in [London, Ontario](https://en.wikipedia.org/wiki/London,_Ontario) with my wife and our 8-year-old daughter.
 
-🔭 Intellectually promiscuous Frontend/Fullstack Engg. passionate about Component Driven Design & UI Micro-interactions that ✨ spark ✨ joy for its users.
+## What I Do
 
+I build enterprise UI platforms: micro-frontends, design systems, and complex workflow UIs. My toolkit spans Angular, React, and TypeScript, but what I really care about is reliability, testing, and helping teams ship consistently.
 
-**Currently**
+I've led frontend delivery across CRM platforms, logistics planning tools, and multi-tenant systems. I enjoy translating ambiguous requirements into clean, maintainable interfaces, and mentoring others to do the same. I take immense pride in [my craft](https://sandeepchopra.ca/software-craftsmanship).
 
-- Engineering Manager at Bounteous Canada
-- Individual Contributor a New York-based talent technology company specializing in cloud-based software solutions for recruitment and talent acquisition. (Contracting)
+## Beyond the Code
 
-**Elsewhere**
+- **Founder** of [Coders Collective London](https://coderscollective.ca), a local dev community for learning and building together
+- **Revived the London chapter** of [Canada Learning Code](https://www.canadalearningcode.ca/): 30+ volunteers, 200+ students, 10+ workshops
+- [**3 platinum trophies**](https://trophies.sandeepchopra.ca/) and counting (PS5)
+- I love making and sharing memes, the teams I work with fondly remembers me as Chief Meme Officer
 
-- Founder, [Coders Collective](https://www.coderscollective.ca)
-- Ex-Chapter Lead, London, ON [Canada Learning Code](https://www.canadalearningcode.ca/)
-- Curator, [Svelte One Newsletter](https://www.svelte.one/)
-- Check out some of my work at [Codepen](https://codepen.io/letsandeepio/pens/showcase)
+## Explore More
 
+-  [Kudos](https://sandeepchopra.ca/kudos): kind words from people I've worked with
+- [Blog](https://sandeepchopra.ca/blog): longer thoughts on code and craft
+-  [Notes](https://sandeepchopra.ca/notes): quick ideas, links, and bookmarks
+-  [LinkedIn](https://www.linkedin.com/in/letsandeepio/): the professional stuff
 
-**Certified**
-
-- AWS Certified Developer Associate
-- Apollo GraphQL - Graph Developer Professional 
-
-**Fun Projects**
+## Fun Projects
 
 - [year-progress](https://github.com/letsandeepio/year-progress)
 - periodic table of visualizatons - [live](https://letsandeepio.github.io/viz-method-table/) | [github](https://github.com/letsandeepio/viz-method-table)
-
-
-🦀 I’m currently grokking AngularJS and C#, .net
-
-⚡ Fun fact: I reverse-engineered Yahoo Mail composer GUI back in 2004
-
 
 <!--
 **letsandeepio/letsandeepio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
