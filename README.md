@@ -1,6 +1,6 @@
 👋🏻 Hi, I'm Sandeep. I've been building things on the web for [over 22 years](https://sandeepchopra.ca/note/offline-blog-editor). First as a hobby, then as a career pivot that finally felt right.
 
-I live in [London, Ontario](https://en.wikipedia.org/wiki/London,_Ontario) with my wife and our 8-year-old daughter.
+I live in [London, Ontario](https://en.wikipedia.org/wiki/London,_Ontario) with my wife and little daughter.
 
 ## What I Do
 
